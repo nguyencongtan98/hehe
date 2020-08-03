@@ -9,7 +9,7 @@
 # except:
 # 	you = "loi"
 
-# print(you)
+# print(you) Tan NGuyen
 
 import speech_recognition as sr
 
